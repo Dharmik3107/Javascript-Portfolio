@@ -6,7 +6,6 @@ const twitterNode = document.getElementById("twitter");
 const copyNode = document.getElementById("copy");
 
 //Helper functions
-
 function randomNumber() {
   return Math.floor(Math.random() * 8262);
 } //Generate Random Number
